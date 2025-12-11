@@ -5,8 +5,7 @@ INSTRUCTIONS
 2. Install the font.
 3. Run Cal-q-lator.pyw
 
-Boom! Enjoy the Geometry Dash styled modern calculator!
-
+Boom! Enjoy the (not really) Geometry Dash styled modern calculator!
 
 
 
@@ -20,3 +19,10 @@ CREDITS
 
 
 
+
+
+
+---------------------------------------------------------------------------------------------
+NOTES
+---------------------------------------------------------------------------------------------
+If you're having trouble installing Python, then just download the .exe file and run it!
