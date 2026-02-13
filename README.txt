@@ -1,11 +1,13 @@
 ---------------------------------------------------------------------------------------------
 INSTRUCTIONS
 ---------------------------------------------------------------------------------------------
-1. Install Python (https://www.python.org/downloads/) (make sure it's Python 3.1 or newer)
-2. Install the font.
-3. Run Cal-q-lator.pyw
+Install Python (https://www.python.org/downloads/) (make sure it's Python 3.1 or newer).
+Install the font.
+Open cmd.
+Install CustomTkinter with "py -m pip install CustomTkinter".
+Run Cal-q-lator.pyw.
 
-Boom! Enjoy the (not really) Geometry Dash styled modern calculator!
+Boom! Enjoy the modern calculator!
 
 
 
@@ -26,3 +28,4 @@ CREDITS
 NOTES
 ---------------------------------------------------------------------------------------------
 If you're having trouble installing Python, then just download the .exe file and run it!
+
